@@ -1,0 +1,228 @@
+nohup: ignoring input
+experiment: 0
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1288,train acc 0.367,test acc 0.367
+epoch 20,loss 0.0613,train acc 0.425,test acc 0.296
+epoch 30,loss 0.0390,train acc 0.455,test acc 0.298
+epoch 40,loss 0.0290,train acc 0.474,test acc 0.287
+epoch 50,loss 0.0232,train acc 0.481,test acc 0.335
+epoch 60,loss 0.0188,train acc 0.504,test acc 0.293
+epoch 70,loss 0.0155,train acc 0.530,test acc 0.286
+epoch 80,loss 0.0133,train acc 0.546,test acc 0.287
+epoch 90,loss 0.0116,train acc 0.554,test acc 0.297
+epoch 100,loss 0.0104,train acc 0.558,test acc 0.302
+experiment: 1
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1264,train acc 0.394,test acc 0.254
+epoch 20,loss 0.0580,train acc 0.476,test acc 0.224
+epoch 30,loss 0.0370,train acc 0.506,test acc 0.232
+epoch 40,loss 0.0271,train acc 0.521,test acc 0.244
+epoch 50,loss 0.0212,train acc 0.537,test acc 0.240
+epoch 60,loss 0.0172,train acc 0.555,test acc 0.289
+epoch 70,loss 0.0144,train acc 0.569,test acc 0.329
+epoch 80,loss 0.0124,train acc 0.579,test acc 0.293
+epoch 90,loss 0.0112,train acc 0.580,test acc 0.302
+epoch 100,loss 0.0098,train acc 0.587,test acc 0.265
+experiment: 2
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1207,train acc 0.452,test acc 0.247
+epoch 20,loss 0.0565,train acc 0.508,test acc 0.342
+epoch 30,loss 0.0354,train acc 0.545,test acc 0.268
+epoch 40,loss 0.0259,train acc 0.561,test acc 0.331
+epoch 50,loss 0.0204,train acc 0.570,test acc 0.339
+epoch 60,loss 0.0166,train acc 0.577,test acc 0.329
+epoch 70,loss 0.0141,train acc 0.581,test acc 0.300
+epoch 80,loss 0.0124,train acc 0.583,test acc 0.358
+epoch 90,loss 0.0108,train acc 0.591,test acc 0.332
+epoch 100,loss 0.0100,train acc 0.582,test acc 0.345
+experiment: 3
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1239,train acc 0.411,test acc 0.230
+epoch 20,loss 0.0561,train acc 0.507,test acc 0.215
+epoch 30,loss 0.0355,train acc 0.535,test acc 0.206
+epoch 40,loss 0.0257,train acc 0.551,test acc 0.226
+epoch 50,loss 0.0201,train acc 0.568,test acc 0.273
+epoch 60,loss 0.0165,train acc 0.579,test acc 0.277
+epoch 70,loss 0.0139,train acc 0.595,test acc 0.263
+epoch 80,loss 0.0123,train acc 0.592,test acc 0.300
+epoch 90,loss 0.0107,train acc 0.601,test acc 0.268
+epoch 100,loss 0.0097,train acc 0.600,test acc 0.297
+experiment: 4
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1299,train acc 0.361,test acc 0.327
+epoch 20,loss 0.0606,train acc 0.448,test acc 0.346
+epoch 30,loss 0.0385,train acc 0.483,test acc 0.301
+epoch 40,loss 0.0282,train acc 0.497,test acc 0.345
+epoch 50,loss 0.0220,train acc 0.521,test acc 0.317
+epoch 60,loss 0.0181,train acc 0.537,test acc 0.364
+epoch 70,loss 0.0151,train acc 0.552,test acc 0.347
+epoch 80,loss 0.0129,train acc 0.558,test acc 0.327
+epoch 90,loss 0.0114,train acc 0.556,test acc 0.299
+epoch 100,loss 0.0102,train acc 0.559,test acc 0.303
+experiment: 5
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1213,train acc 0.447,test acc 0.307
+epoch 20,loss 0.0548,train acc 0.521,test acc 0.496
+epoch 30,loss 0.0350,train acc 0.546,test acc 0.477
+epoch 40,loss 0.0257,train acc 0.561,test acc 0.469
+epoch 50,loss 0.0203,train acc 0.563,test acc 0.410
+epoch 60,loss 0.0167,train acc 0.568,test acc 0.413
+epoch 70,loss 0.0142,train acc 0.579,test acc 0.395
+epoch 80,loss 0.0123,train acc 0.585,test acc 0.428
+epoch 90,loss 0.0108,train acc 0.589,test acc 0.416
+epoch 100,loss 0.0096,train acc 0.593,test acc 0.463
+experiment: 6
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1209,train acc 0.454,test acc 0.422
+epoch 20,loss 0.0551,train acc 0.520,test acc 0.422
+epoch 30,loss 0.0347,train acc 0.555,test acc 0.374
+epoch 40,loss 0.0257,train acc 0.560,test acc 0.327
+epoch 50,loss 0.0204,train acc 0.569,test acc 0.392
+epoch 60,loss 0.0169,train acc 0.570,test acc 0.302
+epoch 70,loss 0.0144,train acc 0.575,test acc 0.302
+epoch 80,loss 0.0126,train acc 0.575,test acc 0.271
+epoch 90,loss 0.0111,train acc 0.578,test acc 0.341
+epoch 100,loss 0.0099,train acc 0.580,test acc 0.298
+experiment: 7
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1222,train acc 0.428,test acc 0.350
+epoch 20,loss 0.0574,train acc 0.475,test acc 0.280
+epoch 30,loss 0.0371,train acc 0.492,test acc 0.302
+epoch 40,loss 0.0272,train acc 0.507,test acc 0.329
+epoch 50,loss 0.0213,train acc 0.520,test acc 0.299
+epoch 60,loss 0.0176,train acc 0.527,test acc 0.314
+epoch 70,loss 0.0150,train acc 0.526,test acc 0.336
+epoch 80,loss 0.0130,train acc 0.533,test acc 0.317
+epoch 90,loss 0.0115,train acc 0.539,test acc 0.332
+epoch 100,loss 0.0103,train acc 0.538,test acc 0.332
+experiment: 8
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1157,train acc 0.482,test acc 0.263
+epoch 20,loss 0.0544,train acc 0.530,test acc 0.281
+epoch 30,loss 0.0348,train acc 0.546,test acc 0.329
+epoch 40,loss 0.0257,train acc 0.559,test acc 0.314
+epoch 50,loss 0.0205,train acc 0.570,test acc 0.253
+epoch 60,loss 0.0169,train acc 0.572,test acc 0.289
+epoch 70,loss 0.0145,train acc 0.576,test acc 0.351
+epoch 80,loss 0.0126,train acc 0.579,test acc 0.310
+epoch 90,loss 0.0111,train acc 0.579,test acc 0.321
+epoch 100,loss 0.0101,train acc 0.579,test acc 0.316
+experiment: 9
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1283,train acc 0.379,test acc 0.256
+epoch 20,loss 0.0626,train acc 0.407,test acc 0.299
+epoch 30,loss 0.0396,train acc 0.453,test acc 0.255
+epoch 40,loss 0.0285,train acc 0.500,test acc 0.288
+epoch 50,loss 0.0224,train acc 0.513,test acc 0.230
+epoch 60,loss 0.0183,train acc 0.520,test acc 0.279
+epoch 70,loss 0.0156,train acc 0.526,test acc 0.197
+epoch 80,loss 0.0135,train acc 0.531,test acc 0.266
+epoch 90,loss 0.0120,train acc 0.530,test acc 0.287
+epoch 100,loss 0.0107,train acc 0.538,test acc 0.360
+experiment: 10
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1304,train acc 0.349,test acc 0.230
+epoch 20,loss 0.0640,train acc 0.370,test acc 0.285
+epoch 30,loss 0.0422,train acc 0.384,test acc 0.250
+epoch 40,loss 0.0310,train acc 0.411,test acc 0.283
+epoch 50,loss 0.0243,train acc 0.436,test acc 0.214
+epoch 60,loss 0.0200,train acc 0.448,test acc 0.230
+epoch 70,loss 0.0169,train acc 0.452,test acc 0.248
+epoch 80,loss 0.0146,train acc 0.469,test acc 0.259
+epoch 90,loss 0.0128,train acc 0.474,test acc 0.295
+epoch 100,loss 0.0113,train acc 0.488,test acc 0.329
+experiment: 11
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1204,train acc 0.452,test acc 0.268
+epoch 20,loss 0.0547,train acc 0.529,test acc 0.296
+epoch 30,loss 0.0358,train acc 0.540,test acc 0.286
+epoch 40,loss 0.0262,train acc 0.559,test acc 0.282
+epoch 50,loss 0.0201,train acc 0.578,test acc 0.328
+epoch 60,loss 0.0165,train acc 0.584,test acc 0.285
+epoch 70,loss 0.0139,train acc 0.591,test acc 0.228
+epoch 80,loss 0.0121,train acc 0.598,test acc 0.246
+epoch 90,loss 0.0106,train acc 0.601,test acc 0.222
+epoch 100,loss 0.0096,train acc 0.602,test acc 0.232
+experiment: 12
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1216,train acc 0.448,test acc 0.496
+epoch 20,loss 0.0567,train acc 0.494,test acc 0.414
+epoch 30,loss 0.0345,train acc 0.546,test acc 0.428
+epoch 40,loss 0.0249,train acc 0.567,test acc 0.472
+epoch 50,loss 0.0199,train acc 0.573,test acc 0.558
+epoch 60,loss 0.0164,train acc 0.575,test acc 0.555
+epoch 70,loss 0.0141,train acc 0.578,test acc 0.532
+epoch 80,loss 0.0123,train acc 0.583,test acc 0.538
+epoch 90,loss 0.0109,train acc 0.583,test acc 0.532
+epoch 100,loss 0.0098,train acc 0.591,test acc 0.574
+experiment: 13
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1254,train acc 0.423,test acc 0.271
+epoch 20,loss 0.0596,train acc 0.455,test acc 0.282
+epoch 30,loss 0.0385,train acc 0.482,test acc 0.271
+epoch 40,loss 0.0280,train acc 0.509,test acc 0.271
+epoch 50,loss 0.0216,train acc 0.528,test acc 0.295
+epoch 60,loss 0.0175,train acc 0.541,test acc 0.298
+epoch 70,loss 0.0149,train acc 0.547,test acc 0.271
+epoch 80,loss 0.0129,train acc 0.553,test acc 0.281
+epoch 90,loss 0.0115,train acc 0.556,test acc 0.295
+epoch 100,loss 0.0104,train acc 0.561,test acc 0.288
+experiment: 14
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1207,train acc 0.435,test acc 0.380
+epoch 20,loss 0.0568,train acc 0.501,test acc 0.374
+epoch 30,loss 0.0361,train acc 0.530,test acc 0.336
+epoch 40,loss 0.0265,train acc 0.545,test acc 0.319
+epoch 50,loss 0.0208,train acc 0.562,test acc 0.381
+epoch 60,loss 0.0170,train acc 0.574,test acc 0.277
+epoch 70,loss 0.0147,train acc 0.573,test acc 0.286
+epoch 80,loss 0.0124,train acc 0.584,test acc 0.323
+epoch 90,loss 0.0113,train acc 0.577,test acc 0.372
+epoch 100,loss 0.0098,train acc 0.588,test acc 0.334
+average_acc: 0.3358616101131071
+Running time: 5.0 h 55.0 m 34.68149256706238 s

@@ -1,0 +1,228 @@
+nohup: ignoring input
+experiment: 0
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1465,train acc 0.271,test acc 0.319
+epoch 20,loss 3.1194,train acc 0.264,test acc 0.246
+epoch 30,loss 3.0239,train acc 0.263,test acc 0.211
+epoch 40,loss 3695.8690,train acc 0.259,test acc 0.246
+epoch 50,loss 254.5291,train acc 0.264,test acc 0.271
+epoch 60,loss 763.8714,train acc 0.257,test acc 0.246
+epoch 70,loss 2183.8400,train acc 0.261,test acc 0.245
+epoch 80,loss 1331.8926,train acc 0.247,test acc 0.273
+epoch 90,loss 2019.0749,train acc 0.262,test acc 0.271
+epoch 100,loss 188.8223,train acc 0.270,test acc 0.261
+experiment: 1
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 29.6078,train acc 0.265,test acc 0.204
+epoch 20,loss 0.1338,train acc 0.271,test acc 0.246
+epoch 30,loss 5.0038,train acc 0.263,test acc 0.211
+epoch 40,loss 1.3061,train acc 0.264,test acc 0.223
+epoch 50,loss 0.1073,train acc 0.269,test acc 0.236
+epoch 60,loss 11.4201,train acc 0.263,test acc 0.246
+epoch 70,loss 1.2927,train acc 0.260,test acc 0.199
+epoch 80,loss 16068.6040,train acc 0.255,test acc 0.271
+epoch 90,loss 15066.2857,train acc 0.268,test acc 0.271
+epoch 100,loss 18662.7193,train acc 0.256,test acc 0.228
+experiment: 2
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.2576,train acc 0.263,test acc 0.246
+epoch 20,loss 0.2387,train acc 0.262,test acc 0.223
+epoch 30,loss 29.7117,train acc 0.257,test acc 0.226
+epoch 40,loss 13.3789,train acc 0.264,test acc 0.273
+epoch 50,loss 1.6919,train acc 0.259,test acc 0.204
+epoch 60,loss 0.1620,train acc 0.265,test acc 0.190
+epoch 70,loss 785.8838,train acc 0.263,test acc 0.249
+epoch 80,loss 148.3714,train acc 0.252,test acc 0.247
+epoch 90,loss 2792.5172,train acc 0.262,test acc 0.192
+epoch 100,loss 1205.5704,train acc 0.257,test acc 0.236
+experiment: 3
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 505.7472,train acc 0.259,test acc 0.256
+epoch 20,loss 3203.1630,train acc 0.256,test acc 0.211
+epoch 30,loss 1557.1858,train acc 0.253,test acc 0.246
+epoch 40,loss 1703.1612,train acc 0.249,test acc 0.273
+epoch 50,loss 233.6165,train acc 0.272,test acc 0.222
+epoch 60,loss 805.8594,train acc 0.262,test acc 0.268
+epoch 70,loss 194.7851,train acc 0.258,test acc 0.320
+epoch 80,loss 583.8625,train acc 0.262,test acc 0.271
+epoch 90,loss 283.3859,train acc 0.255,test acc 0.273
+epoch 100,loss 164.9278,train acc 0.257,test acc 0.288
+experiment: 4
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 2.0581,train acc 0.260,test acc 0.211
+epoch 20,loss 1409469.5445,train acc 0.252,test acc 0.271
+epoch 30,loss 1862.0651,train acc 0.259,test acc 0.177
+epoch 40,loss 23550.2682,train acc 0.256,test acc 0.215
+epoch 50,loss 2481.7614,train acc 0.247,test acc 0.273
+epoch 60,loss 3684.5772,train acc 0.250,test acc 0.211
+epoch 70,loss 1195.0591,train acc 0.253,test acc 0.312
+epoch 80,loss 2223.2858,train acc 0.246,test acc 0.257
+epoch 90,loss 391.0399,train acc 0.255,test acc 0.316
+epoch 100,loss 278.8927,train acc 0.240,test acc 0.225
+experiment: 5
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 37.4137,train acc 0.261,test acc 0.277
+epoch 20,loss 4853.5909,train acc 0.249,test acc 0.246
+epoch 30,loss 644.7951,train acc 0.250,test acc 0.279
+epoch 40,loss 5347.5011,train acc 0.229,test acc 0.231
+epoch 50,loss 318.6307,train acc 0.239,test acc 0.246
+epoch 60,loss 579.3415,train acc 0.251,test acc 0.275
+epoch 70,loss 576.7188,train acc 0.247,test acc 0.182
+epoch 80,loss 230.5258,train acc 0.237,test acc 0.178
+epoch 90,loss 184.0672,train acc 0.262,test acc 0.228
+epoch 100,loss 295.9924,train acc 0.263,test acc 0.246
+experiment: 6
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1432,train acc 0.268,test acc 0.279
+epoch 20,loss 12.2004,train acc 0.260,test acc 0.339
+epoch 30,loss 0.1909,train acc 0.256,test acc 0.207
+epoch 40,loss 313.8486,train acc 0.259,test acc 0.230
+epoch 50,loss 248.6791,train acc 0.258,test acc 0.273
+epoch 60,loss 243.3396,train acc 0.254,test acc 0.247
+epoch 70,loss 203.3134,train acc 0.259,test acc 0.273
+epoch 80,loss 97.0970,train acc 0.255,test acc 0.256
+epoch 90,loss 97.7728,train acc 0.259,test acc 0.278
+epoch 100,loss 67.2268,train acc 0.254,test acc 0.233
+experiment: 7
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 48.8115,train acc 0.260,test acc 0.218
+epoch 20,loss 738973.1175,train acc 0.259,test acc 0.260
+epoch 30,loss 2949.4451,train acc 0.259,test acc 0.266
+epoch 40,loss 4727.2625,train acc 0.252,test acc 0.206
+epoch 50,loss 694.4188,train acc 0.258,test acc 0.217
+epoch 60,loss 464.6813,train acc 0.262,test acc 0.277
+epoch 70,loss 362.5422,train acc 0.257,test acc 0.266
+epoch 80,loss 998.2647,train acc 0.269,test acc 0.301
+epoch 90,loss 194.0447,train acc 0.277,test acc 0.212
+epoch 100,loss 698.5868,train acc 0.259,test acc 0.194
+experiment: 8
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 38.8899,train acc 0.256,test acc 0.211
+epoch 20,loss 40.3020,train acc 0.258,test acc 0.296
+epoch 30,loss 0.0854,train acc 0.276,test acc 0.336
+epoch 40,loss 5630.7473,train acc 0.253,test acc 0.271
+epoch 50,loss 2896.3518,train acc 0.257,test acc 0.273
+epoch 60,loss 561.8314,train acc 0.265,test acc 0.196
+epoch 70,loss 720.5273,train acc 0.255,test acc 0.222
+epoch 80,loss 65.5529,train acc 0.262,test acc 0.222
+epoch 90,loss 352.4063,train acc 0.251,test acc 0.271
+epoch 100,loss 77.0542,train acc 0.261,test acc 0.273
+experiment: 9
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 13.2882,train acc 0.258,test acc 0.285
+epoch 20,loss 0.0851,train acc 0.263,test acc 0.172
+epoch 30,loss 3.6337,train acc 0.264,test acc 0.281
+epoch 40,loss 28.1118,train acc 0.254,test acc 0.211
+epoch 50,loss 0.4112,train acc 0.262,test acc 0.242
+epoch 60,loss 6.6419,train acc 0.267,test acc 0.259
+epoch 70,loss 5.3040,train acc 0.264,test acc 0.253
+epoch 80,loss 0.0243,train acc 0.275,test acc 0.238
+epoch 90,loss 0.0220,train acc 0.270,test acc 0.309
+epoch 100,loss 0.5124,train acc 0.266,test acc 0.334
+experiment: 10
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 6.2632,train acc 0.260,test acc 0.297
+epoch 20,loss 1817.0257,train acc 0.250,test acc 0.271
+epoch 30,loss 1929.4036,train acc 0.253,test acc 0.273
+epoch 40,loss 1097.0480,train acc 0.250,test acc 0.273
+epoch 50,loss 2198029.2236,train acc 0.261,test acc 0.271
+epoch 60,loss 2721286.2727,train acc 0.260,test acc 0.271
+epoch 70,loss 29057263.9383,train acc 0.273,test acc 0.262
+epoch 80,loss 16525819.8336,train acc 0.272,test acc 0.263
+epoch 90,loss 16112591.3966,train acc 0.283,test acc 0.282
+epoch 100,loss 15433775.2853,train acc 0.270,test acc 0.281
+experiment: 11
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.2043,train acc 0.263,test acc 0.202
+epoch 20,loss 130.0992,train acc 0.254,test acc 0.129
+epoch 30,loss 2.7279,train acc 0.262,test acc 0.253
+epoch 40,loss 10.1431,train acc 0.261,test acc 0.234
+epoch 50,loss 369.6288,train acc 0.251,test acc 0.239
+epoch 60,loss 625.0474,train acc 0.257,test acc 0.271
+epoch 70,loss 210.9309,train acc 0.251,test acc 0.211
+epoch 80,loss 29.2515,train acc 0.258,test acc 0.099
+epoch 90,loss 168.1932,train acc 0.255,test acc 0.246
+epoch 100,loss 500.0732,train acc 0.252,test acc 0.271
+experiment: 12
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.2062,train acc 0.276,test acc 0.236
+epoch 20,loss 0.0718,train acc 0.273,test acc 0.193
+epoch 30,loss 18.3991,train acc 0.259,test acc 0.236
+epoch 40,loss 0.6652,train acc 0.265,test acc 0.216
+epoch 50,loss 2049.7647,train acc 0.260,test acc 0.271
+epoch 60,loss 417.8462,train acc 0.251,test acc 0.246
+epoch 70,loss 1065.0104,train acc 0.249,test acc 0.246
+epoch 80,loss 1200.5001,train acc 0.255,test acc 0.336
+epoch 90,loss 20622.6480,train acc 0.247,test acc 0.285
+epoch 100,loss 13545.6367,train acc 0.252,test acc 0.426
+experiment: 13
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1447,train acc 0.273,test acc 0.246
+epoch 20,loss 0.4307,train acc 0.258,test acc 0.273
+epoch 30,loss 4.1039,train acc 0.262,test acc 0.440
+epoch 40,loss 0.3781,train acc 0.267,test acc 0.164
+epoch 50,loss 0.6676,train acc 0.260,test acc 0.196
+epoch 60,loss 970.6342,train acc 0.256,test acc 0.246
+epoch 70,loss 3221.7432,train acc 0.250,test acc 0.389
+epoch 80,loss 749.0587,train acc 0.254,test acc 0.211
+epoch 90,loss 61.7817,train acc 0.278,test acc 0.220
+epoch 100,loss 767.3015,train acc 0.255,test acc 0.211
+experiment: 14
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 3.5325,train acc 0.267,test acc 0.265
+epoch 20,loss 0.1118,train acc 0.280,test acc 0.289
+epoch 30,loss 1128.2962,train acc 0.264,test acc 0.273
+epoch 40,loss 1609.8655,train acc 0.258,test acc 0.211
+epoch 50,loss 718.2971,train acc 0.259,test acc 0.211
+epoch 60,loss 114.9741,train acc 0.259,test acc 0.273
+epoch 70,loss 85.9009,train acc 0.253,test acc 0.255
+epoch 80,loss 63.9822,train acc 0.258,test acc 0.203
+epoch 90,loss 165.3864,train acc 0.258,test acc 0.211
+epoch 100,loss 103.2839,train acc 0.262,test acc 0.240
+average_acc: 0.2631536926147705
+Running time: 5.0 h 55.0 m 14.358601570129395 s

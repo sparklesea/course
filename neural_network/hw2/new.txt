@@ -1,0 +1,9 @@
+nohup: ignoring input
+session: 0 experiment: 0 precision: 0.34439834024896265
+session: 0 experiment: 3 precision: 0.35269709543568467
+session: 0 experiment: 4 precision: 0.36099585062240663
+session: 0 experiment: 9 precision: 0.3651452282157676
+session: 1 experiment: 2 precision: 0.33211678832116787
+session: 1 experiment: 3 precision: 0.4051094890510949
+session: 2 experiment: 2 precision: 0.43529411764705883
+0.6542058369217999

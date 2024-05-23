@@ -1,0 +1,209 @@
+nohup: ignoring input
+experiment: 0
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1126,train acc 0.501,test acc 0.211
+epoch 20,loss 0.0546,train acc 0.512,test acc 0.246
+epoch 30,loss 0.0359,train acc 0.522,test acc 0.252
+epoch 40,loss 0.0272,train acc 0.521,test acc 0.246
+epoch 50,loss 0.0214,train acc 0.536,test acc 0.237
+epoch 60,loss 0.0178,train acc 0.531,test acc 0.273
+epoch 70,loss 0.0152,train acc 0.540,test acc 0.351
+epoch 80,loss 0.0134,train acc 0.534,test acc 0.246
+epoch 90,loss 0.0118,train acc 0.542,test acc 0.254
+epoch 100,loss 0.0106,train acc 0.542,test acc 0.246
+experiment: 1
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1119,train acc 0.503,test acc 0.271
+epoch 20,loss 0.0542,train acc 0.523,test acc 0.211
+epoch 30,loss 0.0350,train acc 0.546,test acc 0.271
+epoch 40,loss 0.0278,train acc 0.515,test acc 0.271
+epoch 50,loss 0.0231,train acc 0.479,test acc 0.283
+epoch 60,loss 0.0183,train acc 0.517,test acc 0.211
+epoch 70,loss 0.0154,train acc 0.534,test acc 0.272
+epoch 80,loss 0.0137,train acc 0.529,test acc 0.271
+epoch 90,loss 0.0125,train acc 0.507,test acc 0.222
+epoch 100,loss 0.0107,train acc 0.552,test acc 0.273
+experiment: 2
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1107,train acc 0.511,test acc 0.273
+epoch 20,loss 0.0525,train acc 0.545,test acc 0.246
+epoch 30,loss 0.0344,train acc 0.558,test acc 0.213
+epoch 40,loss 0.0259,train acc 0.559,test acc 0.273
+epoch 50,loss 0.0205,train acc 0.562,test acc 0.211
+epoch 60,loss 0.0172,train acc 0.566,test acc 0.273
+epoch 70,loss 0.0158,train acc 0.522,test acc 0.246
+epoch 80,loss 0.0128,train acc 0.556,test acc 0.211
+epoch 90,loss 0.0112,train acc 0.567,test acc 0.170
+epoch 100,loss 0.0099,train acc 0.577,test acc 0.271
+experiment: 3
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1119,train acc 0.505,test acc 0.211
+epoch 20,loss 0.0535,train acc 0.530,test acc 0.271
+epoch 30,loss 0.0353,train acc 0.540,test acc 0.270
+epoch 40,loss 0.0265,train acc 0.538,test acc 0.271
+epoch 50,loss 0.0209,train acc 0.545,test acc 0.285
+epoch 60,loss 0.0174,train acc 0.552,test acc 0.271
+epoch 70,loss 0.0149,train acc 0.546,test acc 0.211
+epoch 80,loss 0.0131,train acc 0.548,test acc 0.271
+epoch 90,loss 0.0116,train acc 0.550,test acc 0.220
+epoch 100,loss 0.0104,train acc 0.550,test acc 0.271
+experiment: 4
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1177,train acc 0.482,test acc 0.246
+epoch 20,loss 0.0563,train acc 0.507,test acc 0.244
+epoch 30,loss 0.0371,train acc 0.517,test acc 0.211
+epoch 40,loss 0.0288,train acc 0.497,test acc 0.271
+epoch 50,loss 0.0222,train acc 0.520,test acc 0.246
+epoch 60,loss 0.0191,train acc 0.478,test acc 0.211
+epoch 70,loss 0.0158,train acc 0.517,test acc 0.246
+epoch 80,loss 0.0139,train acc 0.516,test acc 0.246
+epoch 90,loss 0.0118,train acc 0.545,test acc 0.211
+epoch 100,loss 0.0105,train acc 0.550,test acc 0.246
+experiment: 5
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1156,train acc 0.480,test acc 0.211
+epoch 20,loss 0.0565,train acc 0.492,test acc 0.273
+epoch 30,loss 0.0369,train acc 0.508,test acc 0.271
+epoch 40,loss 0.0271,train acc 0.522,test acc 0.271
+epoch 50,loss 0.0216,train acc 0.528,test acc 0.211
+epoch 60,loss 0.0197,train acc 0.470,test acc 0.190
+epoch 70,loss 0.0167,train acc 0.476,test acc 0.273
+epoch 80,loss 0.0143,train acc 0.495,test acc 0.273
+epoch 90,loss 0.0125,train acc 0.501,test acc 0.246
+epoch 100,loss 0.0112,train acc 0.501,test acc 0.069
+experiment: 6
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1233,train acc 0.444,test acc 0.273
+epoch 20,loss 0.0553,train acc 0.514,test acc 0.273
+epoch 30,loss 0.0359,train acc 0.535,test acc 0.225
+epoch 40,loss 0.0267,train acc 0.535,test acc 0.271
+epoch 50,loss 0.0214,train acc 0.533,test acc 0.219
+epoch 60,loss 0.0179,train acc 0.528,test acc 0.246
+epoch 70,loss 0.0155,train acc 0.525,test acc 0.246
+epoch 80,loss 0.0132,train acc 0.545,test acc 0.242
+epoch 90,loss 0.0117,train acc 0.546,test acc 0.273
+epoch 100,loss 0.0107,train acc 0.539,test acc 0.211
+experiment: 7
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1097,train acc 0.512,test acc 0.283
+epoch 20,loss 0.0535,train acc 0.530,test acc 0.285
+epoch 30,loss 0.0345,train acc 0.552,test acc 0.211
+epoch 40,loss 0.0256,train acc 0.554,test acc 0.266
+epoch 50,loss 0.0204,train acc 0.559,test acc 0.211
+epoch 60,loss 0.0169,train acc 0.559,test acc 0.243
+epoch 70,loss 0.0146,train acc 0.559,test acc 0.246
+epoch 80,loss 0.0126,train acc 0.567,test acc 0.273
+epoch 90,loss 0.0111,train acc 0.570,test acc 0.231
+epoch 100,loss 0.0101,train acc 0.564,test acc 0.211
+experiment: 8
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1121,train acc 0.492,test acc 0.271
+epoch 20,loss 0.0549,train acc 0.512,test acc 0.211
+epoch 30,loss 0.0360,train acc 0.521,test acc 0.246
+epoch 40,loss 0.0267,train acc 0.526,test acc 0.273
+epoch 50,loss 0.0212,train acc 0.528,test acc 0.246
+epoch 60,loss 0.0178,train acc 0.523,test acc 0.319
+epoch 70,loss 0.0151,train acc 0.528,test acc 0.211
+epoch 80,loss 0.0134,train acc 0.526,test acc 0.246
+epoch 90,loss 0.0120,train acc 0.523,test acc 0.273
+epoch 100,loss 0.0106,train acc 0.529,test acc 0.211
+experiment: 9
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1158,train acc 0.487,test acc 0.271
+epoch 20,loss 0.0573,train acc 0.498,test acc 0.246
+epoch 30,loss 0.0357,train acc 0.537,test acc 0.246
+epoch 40,loss 0.0263,train acc 0.546,test acc 0.246
+epoch 50,loss 0.0211,train acc 0.550,test acc 0.276
+epoch 60,loss 0.0185,train acc 0.522,test acc 0.271
+epoch 70,loss 0.0150,train acc 0.549,test acc 0.246
+epoch 80,loss 0.0130,train acc 0.553,test acc 0.273
+epoch 90,loss 0.0116,train acc 0.548,test acc 0.246
+epoch 100,loss 0.0105,train acc 0.553,test acc 0.246
+experiment: 10
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1129,train acc 0.497,test acc 0.211
+epoch 20,loss 0.0541,train acc 0.530,test acc 0.319
+epoch 30,loss 0.0352,train acc 0.545,test acc 0.257
+epoch 40,loss 0.0261,train acc 0.554,test acc 0.234
+epoch 50,loss 0.0210,train acc 0.554,test acc 0.271
+epoch 60,loss 0.0173,train acc 0.554,test acc 0.211
+epoch 70,loss 0.0149,train acc 0.555,test acc 0.246
+epoch 80,loss 0.0129,train acc 0.557,test acc 0.246
+epoch 90,loss 0.0121,train acc 0.517,test acc 0.246
+epoch 100,loss 0.0103,train acc 0.555,test acc 0.211
+experiment: 11
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1210,train acc 0.431,test acc 0.273
+epoch 20,loss 0.0563,train acc 0.505,test acc 0.098
+epoch 30,loss 0.0363,train acc 0.523,test acc 0.210
+epoch 40,loss 0.0270,train acc 0.527,test acc 0.246
+epoch 50,loss 0.0215,train acc 0.528,test acc 0.271
+epoch 60,loss 0.0179,train acc 0.535,test acc 0.273
+epoch 70,loss 0.0153,train acc 0.532,test acc 0.300
+epoch 80,loss 0.0133,train acc 0.535,test acc 0.259
+epoch 90,loss 0.0119,train acc 0.533,test acc 0.271
+epoch 100,loss 0.0107,train acc 0.534,test acc 0.271
+experiment: 12
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1133,train acc 0.495,test acc 0.211
+epoch 20,loss 0.0550,train acc 0.513,test acc 0.211
+epoch 30,loss 0.0362,train acc 0.526,test acc 0.246
+epoch 40,loss 0.0266,train acc 0.537,test acc 0.211
+epoch 50,loss 0.0214,train acc 0.532,test acc 0.230
+epoch 60,loss 0.0178,train acc 0.531,test acc 0.246
+epoch 70,loss 0.0153,train acc 0.530,test acc 0.272
+epoch 80,loss 0.0135,train acc 0.526,test acc 0.211
+epoch 90,loss 0.0118,train acc 0.529,test acc 0.246
+epoch 100,loss 0.0107,train acc 0.526,test acc 0.211
+experiment: 13
+Processing...
+Done!
+Traceback (most recent call last):
+  File "/user/huangshan/course/shenjingwangluo/prj/test.py", line 116, in <module>
+    batch_count = 0
+  File "/user/huangshan/course/shenjingwangluo/prj/preprocess.py", line 27, in __init__
+    self.data,self.slices=torch.load(self.processed_file_names[0])
+  File "/user/huangshan/miniconda3/envs/GNN/lib/python3.10/site-packages/torch/serialization.py", line 777, in load
+    with _open_zipfile_reader(opened_file) as opened_zipfile:
+  File "/user/huangshan/miniconda3/envs/GNN/lib/python3.10/site-packages/torch/serialization.py", line 282, in __init__
+    super(_open_zipfile_reader, self).__init__(torch._C.PyTorchFileReader(name_or_buffer))
+RuntimeError: PytorchStreamReader failed reading zip archive: failed finding central directory

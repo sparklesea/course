@@ -1,0 +1,61 @@
+grl_alpha=0.1
+average_acc: 0.38605455755156354
+Running time: 1.0 h 45.0 m 7.486099481582642 s
+grl_alpha=0.2
+average_acc: 0.32569527611443777
+Running time: 1.0 h 55.0 m 40.03511881828308 s
+grl_alpha=0.3
+average_acc: 0.3774850299401198
+Running time: 1.0 h 53.0 m 22.616461515426636 s
+grl_alpha=0.4
+average_acc: 0.3086626746506985
+Running time: 1.0 h 55.0 m 16.60301184654236 s
+grl_alpha=0.5
+average_acc: 0.3203193612774451
+Running time: 1.0 h 56.0 m 48.24964904785156 s
+
+test数据集batch_size*4:
+grl_alpha=0.1
+average_acc: 0.33248170326014637
+Running time: 1.0 h 51.0 m 13.92373251914978 s
+
+lesslayer
+average_acc: 0.3280106453759148
+Running time: 1.0 h 40.0 m 35.27546668052673 s
+
+128
+average_acc: 0.37394544244843647
+Running time: 1.0 h 44.0 m 41.62695932388306 s
+
+same:
+average_acc: 0.37980039920159675
+Running time: 1.0 h 30.0 m 58.14637088775635 s
+
+oneconv:
+grl_alpha=0.1
+average_acc: 0.42687957418496336
+Running time: 1.0 h 26.0 m 58.28284978866577 s
+grl_alpha=0.2
+average_acc: 0.439707252162342
+Running time: 1.0 h 30.0 m 0.8481271266937256 s
+grl_alpha=0.2,big_kernel:
+average_acc: 0.4217431803060545
+Running time: 1.0 h 22.0 m 28.51141905784607 s
+grl_alpha=0.3
+average_acc: 0.40875582168995345
+Running time: 1.0 h 33.0 m 35.735405921936035 s
+grl_alpha=0.4
+average_acc: 0.3692880904856953
+Running time: 1.0 h 32.0 m 3.81850266456604 s
+grl_alpha=0.5
+average_acc: 0.4012774451097804
+Running time: 1.0 h 32.0 m 47.174087047576904 s
+
+
+oneconv batchsize256
+average_acc: 0.41083166999334664
+Running time: 0.0 h 43.0 m 40.08984041213989 s
+
+oneconv batchsize128
+average_acc: 0.42480372588157017
+Running time: 0.0 h 57.0 m 43.29691815376282 s

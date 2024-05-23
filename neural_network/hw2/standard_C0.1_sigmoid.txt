@@ -1,0 +1,47 @@
+nohup: ignoring input
+session: 0 experiment: 0
+session: 0 experiment: 1
+session: 0 experiment: 3
+session: 0 experiment: 4
+session: 0 experiment: 8
+session: 0 experiment: 9
+session: 0 experiment: 11
+session: 1 experiment: 2
+session: 1 experiment: 3
+session: 1 experiment: 4
+session: 1 experiment: 9
+session: 2 experiment: 1
+session: 2 experiment: 2
+0.6142968747267783
+one: 0
+precision: 0.25109780439121754
+one: 1
+precision: 0.35169660678642717
+one: 2
+precision: 0.22395209580838324
+one: 3
+precision: 0.38083832335329343
+one: 4
+precision: 0.26107784431137726
+one: 5
+precision: 0.2830339321357285
+one: 6
+precision: 0.2686626746506986
+one: 7
+precision: 0.3441117764471058
+one: 8
+precision: 0.3265469061876248
+one: 9
+precision: 0.2782435129740519
+one: 10
+precision: 0.2710578842315369
+one: 11
+precision: 0.2934131736526946
+one: 12
+precision: 0.35608782435129743
+one: 13
+precision: 0.3217564870259481
+one: 14
+precision: 0.23552894211576847
+average_precision: 0.2964737192282102
+Running time: 1.0 h 5.0 m 17.047117471694946 s

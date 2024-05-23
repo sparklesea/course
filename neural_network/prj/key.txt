@@ -1,0 +1,109 @@
+nohup: ignoring input
+experiment: 0
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1181,train acc 0.476,test acc 0.271
+epoch 20,loss 0.0543,train acc 0.535,test acc 0.323
+experiment: 1
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1163,train acc 0.490,test acc 0.313
+epoch 20,loss 0.0589,train acc 0.488,test acc 0.262
+experiment: 2
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1196,train acc 0.449,test acc 0.259
+epoch 20,loss 0.0605,train acc 0.460,test acc 0.264
+experiment: 3
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1158,train acc 0.481,test acc 0.234
+epoch 20,loss 0.0540,train acc 0.537,test acc 0.304
+experiment: 4
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1112,train acc 0.510,test acc 0.253
+epoch 20,loss 0.0543,train acc 0.532,test acc 0.331
+experiment: 5
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1116,train acc 0.509,test acc 0.558
+epoch 20,loss 0.0534,train acc 0.532,test acc 0.459
+experiment: 6
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1100,train acc 0.518,test acc 0.431
+epoch 20,loss 0.0551,train acc 0.518,test acc 0.380
+experiment: 7
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1120,train acc 0.501,test acc 0.323
+epoch 20,loss 0.0518,train acc 0.550,test acc 0.378
+experiment: 8
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1069,train acc 0.544,test acc 0.214
+epoch 20,loss 0.0497,train acc 0.588,test acc 0.315
+experiment: 9
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1133,train acc 0.493,test acc 0.334
+epoch 20,loss 0.0539,train acc 0.537,test acc 0.336
+experiment: 10
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1084,train acc 0.526,test acc 0.379
+epoch 20,loss 0.0564,train acc 0.521,test acc 0.509
+experiment: 11
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1129,train acc 0.500,test acc 0.279
+epoch 20,loss 0.0556,train acc 0.514,test acc 0.251
+experiment: 12
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1286,train acc 0.377,test acc 0.472
+epoch 20,loss 0.0623,train acc 0.421,test acc 0.376
+experiment: 13
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1270,train acc 0.405,test acc 0.490
+epoch 20,loss 0.0578,train acc 0.494,test acc 0.416
+experiment: 14
+Processing...
+Done!
+Processing...
+Done!
+epoch 10,loss 0.1066,train acc 0.540,test acc 0.362
+epoch 20,loss 0.0511,train acc 0.563,test acc 0.337
+tensor([31, 13, 40, 49, 23, 22,  1,  2, 61,  0])
+average_acc: 0.34935462408516305
+Running time: 4.0 h 41.0 m 43.63925290107727 s

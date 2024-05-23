@@ -1,0 +1,6 @@
+cppprint.cpp
+setup.py
+cppprint_cpp.egg-info/PKG-INFO
+cppprint_cpp.egg-info/SOURCES.txt
+cppprint_cpp.egg-info/dependency_links.txt
+cppprint_cpp.egg-info/top_level.txt

@@ -1,0 +1,51 @@
+nohup: ignoring input
+session: 0 experiment: 0
+session: 0 experiment: 1
+session: 0 experiment: 3
+session: 0 experiment: 4
+session: 0 experiment: 8
+session: 0 experiment: 9
+session: 0 experiment: 11
+session: 1 experiment: 2
+session: 1 experiment: 3
+session: 1 experiment: 4
+session: 1 experiment: 9
+session: 2 experiment: 1
+session: 2 experiment: 2
+0.6142968747267783
+one: 0
+precision: 0.3872255489021956
+/user/huangshan/miniconda3/envs/AIchip/lib/python3.9/site-packages/sklearn/svm/_base.py:299: ConvergenceWarning: Solver terminated early (max_iter=10000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+one: 1
+precision: 0.2958083832335329
+one: 2
+precision: 0.39441117764471056
+one: 3
+precision: 0.3469061876247505
+one: 4
+precision: 0.47145708582834334
+one: 5
+precision: 0.6139720558882236
+one: 6
+precision: 0.40718562874251496
+one: 7
+precision: 0.4219560878243513
+one: 8
+precision: 0.3405189620758483
+one: 9
+precision: 0.3069860279441118
+one: 10
+precision: 0.29101796407185626
+/user/huangshan/miniconda3/envs/AIchip/lib/python3.9/site-packages/sklearn/svm/_base.py:299: ConvergenceWarning: Solver terminated early (max_iter=10000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+one: 11
+precision: 0.3145708582834331
+one: 12
+precision: 0.3161676646706587
+one: 13
+precision: 0.31696606786427145
+one: 14
+precision: 0.26666666666666666
+average_precision: 0.3661210911510313
+Running time: 0.0 h 12.0 m 31.53794002532959 s

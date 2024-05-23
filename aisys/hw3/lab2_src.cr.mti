@@ -1,0 +1,71 @@
+{E:/AI chip design/hw2/lab2_src/elementwise_unit.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/elementwise_unit.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module elementwise_unit
+
+Top level modules:
+	elementwise_unit
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/input_buffer.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/input_buffer.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module input_buffer
+
+Top level modules:
+	input_buffer
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/weight_buffer.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/weight_buffer.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module weight_buffer
+
+Top level modules:
+	weight_buffer
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/PE.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/PE.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module PE
+
+Top level modules:
+	PE
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/decoder.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/decoder.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/instruction_buffer.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/instruction_buffer.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module instruction_buffer
+
+Top level modules:
+	instruction_buffer
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/shared_memory.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/shared_memory.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shared_memory
+
+Top level modules:
+	shared_memory
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/top.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/top.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/elementwise_array.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/elementwise_array.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module elementwise_array
+
+Top level modules:
+	elementwise_array
+
+} {} {}} {E:/AI chip design/hw2/lab2_src/controller.sv} {1 {vlog -work work -vopt -sv -stats=none {E:/AI chip design/hw2/lab2_src/controller.sv}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}}

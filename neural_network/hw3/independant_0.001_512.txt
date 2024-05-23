@@ -1,0 +1,20 @@
+nohup: ignoring input
+experiment: 0
+nohup: ignoring input
+experiment: 0
+experiment: 1
+experiment: 2
+experiment: 3
+experiment: 4
+experiment: 5
+experiment: 6
+experiment: 7
+experiment: 8
+experiment: 9
+experiment: 10
+experiment: 11
+experiment: 12
+experiment: 13
+experiment: 14
+average_acc: 0.39922821024617433
+Running time: 1.0 h 54.0 m 18.177616119384766 s

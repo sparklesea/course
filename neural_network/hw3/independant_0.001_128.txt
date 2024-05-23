@@ -1,0 +1,168 @@
+nohup: ignoring input
+experiment: 0
+epoch 100,loss 0.0001,train acc 0.999,test acc 0.242
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.281
+epoch 300,loss 0.0001,train acc 0.994,test acc 0.293
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.327
+epoch 500,loss 0.0000,train acc 0.997,test acc 0.280
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.378
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.354
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.380
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.343
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.420
+experiment: 1
+epoch 100,loss 0.0001,train acc 0.999,test acc 0.277
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.312
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.318
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.274
+epoch 500,loss 0.0000,train acc 0.996,test acc 0.330
+epoch 600,loss 0.0000,train acc 0.991,test acc 0.265
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.296
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.251
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.273
+epoch 1000,loss 0.0000,train acc 0.997,test acc 0.268
+experiment: 2
+epoch 100,loss 0.0002,train acc 0.997,test acc 0.427
+epoch 200,loss 0.0001,train acc 0.996,test acc 0.459
+epoch 300,loss 0.0000,train acc 0.999,test acc 0.386
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.416
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.459
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.428
+epoch 700,loss 0.0000,train acc 0.999,test acc 0.413
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.400
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.421
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.428
+experiment: 3
+epoch 100,loss 0.0001,train acc 0.998,test acc 0.421
+epoch 200,loss 0.0001,train acc 0.995,test acc 0.349
+epoch 300,loss 0.0000,train acc 0.998,test acc 0.386
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.367
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.338
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.353
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.350
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.336
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.304
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.320
+experiment: 4
+epoch 100,loss 0.0000,train acc 1.000,test acc 0.368
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.401
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.374
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.376
+epoch 500,loss 0.0000,train acc 0.999,test acc 0.397
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.368
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.358
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.413
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.387
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.376
+experiment: 5
+epoch 100,loss 0.0002,train acc 0.996,test acc 0.457
+epoch 200,loss 0.0001,train acc 0.991,test acc 0.454
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.485
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.463
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.495
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.510
+epoch 700,loss 0.0000,train acc 0.996,test acc 0.464
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.474
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.493
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.442
+experiment: 6
+epoch 100,loss 0.0002,train acc 0.997,test acc 0.380
+epoch 200,loss 0.0001,train acc 0.993,test acc 0.410
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.432
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.408
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.421
+epoch 600,loss 0.0000,train acc 0.997,test acc 0.411
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.394
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.406
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.422
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.370
+experiment: 7
+epoch 100,loss 0.0002,train acc 0.997,test acc 0.403
+epoch 200,loss 0.0000,train acc 0.998,test acc 0.450
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.432
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.414
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.411
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.443
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.431
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.447
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.418
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.454
+experiment: 8
+epoch 100,loss 0.0000,train acc 1.000,test acc 0.305
+epoch 200,loss 0.0000,train acc 0.999,test acc 0.223
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.255
+epoch 400,loss 0.0000,train acc 0.996,test acc 0.248
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.242
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.208
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.254
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.257
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.251
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.236
+experiment: 9
+epoch 100,loss 0.0001,train acc 0.999,test acc 0.519
+epoch 200,loss 0.0000,train acc 0.999,test acc 0.523
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.541
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.543
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.547
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.543
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.520
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.524
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.535
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.512
+experiment: 10
+epoch 100,loss 0.0001,train acc 0.997,test acc 0.370
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.374
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.349
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.337
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.330
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.313
+epoch 700,loss 0.0000,train acc 0.999,test acc 0.352
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.311
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.363
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.356
+experiment: 11
+epoch 100,loss 0.0001,train acc 0.999,test acc 0.352
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.369
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.370
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.338
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.337
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.321
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.349
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.341
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.337
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.295
+experiment: 12
+epoch 100,loss 0.0002,train acc 0.997,test acc 0.549
+epoch 200,loss 0.0001,train acc 0.992,test acc 0.594
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.645
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.606
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.623
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.640
+epoch 700,loss 0.0000,train acc 0.999,test acc 0.523
+epoch 800,loss 0.0000,train acc 0.998,test acc 0.525
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.531
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.573
+experiment: 13
+epoch 100,loss 0.0001,train acc 0.997,test acc 0.391
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.409
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.441
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.422
+epoch 500,loss 0.0000,train acc 1.000,test acc 0.429
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.417
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.430
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.501
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.451
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.494
+experiment: 14
+epoch 100,loss 0.0003,train acc 0.994,test acc 0.400
+epoch 200,loss 0.0000,train acc 1.000,test acc 0.365
+epoch 300,loss 0.0000,train acc 1.000,test acc 0.330
+epoch 400,loss 0.0000,train acc 1.000,test acc 0.327
+epoch 500,loss 0.0000,train acc 0.993,test acc 0.292
+epoch 600,loss 0.0000,train acc 1.000,test acc 0.317
+epoch 700,loss 0.0000,train acc 1.000,test acc 0.348
+epoch 800,loss 0.0000,train acc 1.000,test acc 0.273
+epoch 900,loss 0.0000,train acc 1.000,test acc 0.424
+epoch 1000,loss 0.0000,train acc 1.000,test acc 0.291
+average_acc: 0.38908848968729204
+Running time: 4.0 h 46.0 m 36.193469762802124 s
